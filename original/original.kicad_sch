@@ -42529,7 +42529,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DP4873V"
+		(property "Value" "DP8473V"
 			(at 79.756 43.688 0)
 			(effects
 				(font

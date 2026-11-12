@@ -25392,7 +25392,7 @@
 				)
 			)
 		)
-		(property "Value" "DP4873V"
+		(property "Value" "DP8473V"
 			(at -0.0012 11.9672 0)
 			(layer "F.SilkS")
 			(uuid "d977ee8a-546f-4dd0-bf01-3ffe5b7e6aa6")
@@ -76178,7 +76178,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "3,4100 in"
+		(gr_text "86,6140 mm"
 			(at 200.533 26.3836 0)
 			(layer "Dwgs.User")
 			(uuid "0f641db8-c787-4469-8321-13835586e00b")
@@ -76214,7 +76214,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "3,9340 in"
+		(gr_text "99,9236 mm"
 			(at 263.01 92.7354 90)
 			(layer "Dwgs.User")
 			(uuid "4eca627e-a391-4f23-8ae4-74a3cc45257f")
@@ -76250,7 +76250,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "2,8000 in"
+		(gr_text "71,1200 mm"
 			(at 208.28 28.9236 0)
 			(layer "Dwgs.User")
 			(uuid "6dcb2a7e-ebe3-4623-bfa9-f4351144648f")
